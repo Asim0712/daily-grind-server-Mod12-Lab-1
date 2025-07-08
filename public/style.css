@@ -1,0 +1,19 @@
+body
+{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+nav{
+    background-color:grey;
+    color: rgb(202, 25, 25);
+    padding: 10px;
+    text-align: center;
+}
+
+img{
+    display: block;
+    max-width: 20%;
+    max-height : 20%;
+    
+}
