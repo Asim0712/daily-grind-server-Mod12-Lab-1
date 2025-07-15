@@ -38,11 +38,3 @@ app.get('/api/fun-fact', async (req, res) => {
     res.status(500).json({ error: 'Could not fetch fun fact' });
   }
 });
-
-Learning Objectives
-By the end of this activity, you will have demonstrated your ability to:
-
-Create an Express server that communicates with an external API.
-Use axios to perform a GET request to a public API.
-Handle the response from an external API and serve the relevant data to a client.
-Implement basic error handling for API requests.
